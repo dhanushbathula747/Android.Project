@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Eco Biller</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login">login</string>
+    <string name="not_registered_yet">not registered yet?</string>
+    <string name="make_a_bill">Make a Bill</string>
+    <string name="add_items_to_storage">Add Items to Storage</string>
+    <string name="enter_product_name">Enter Product Name</string>
+    <string name="enter_product_Price">Enter product Price</string>
+    <string name="scan">SCAN</string>
+    <string name="view">VIEW</string>
+    <string name="add">ADD</string>
+    <string name="scan1">Scan</string>
+    <string name="view_bill">View Bill</string>
+    <string name="send_bill">Send Bill</string>
+    <string name="adddata">adddata</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="customer_phone_number">Customer phone number</string>
+    <string name="customer_name">Customer Name</string>
+
+</resources>
